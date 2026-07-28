@@ -1,5 +1,3 @@
-# Elevate_Labs_Task_Final_Project
-
 # 🧠 HR Analytics – Predicting Employee Attrition
 
 **Author:** Nishchal Singh  
